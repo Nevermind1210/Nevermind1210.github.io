@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['createinstance_34',['CreateInstance',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html#a4e041de0e9f81aac4b871b830e6f7c1c',1,'NullFrameworkException::MonoSingleton']]]
+  ['bubblesorter_3c_20t_20_3e_90',['BubbleSorter&lt; T &gt;',['../da/d3f/class_sorting_1_1_bubble_comparable.html#ac3506d6df57f268b4402ac32e039b982',1,'Sorting::BubbleComparable']]]
 ];

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['joystickinputhandler_24',['JoystickInputHandler',['../d6/de6/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_joystick_input_handler.html',1,'NullFrameworkException::Mobile::InputHandling']]]
+  ['coolinspector_56',['CoolInspector',['../d8/dc7/class_null_framework_exception_1_1_editor_1_1_custom_editor_1_1_cool_inspector.html',1,'NullFrameworkException::Editor::CustomEditor']]],
+  ['cube_57',['Cube',['../d9/dbf/class_cube.html',1,'']]]
 ];

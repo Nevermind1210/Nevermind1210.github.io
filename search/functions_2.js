@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getswipe_36',['GetSwipe',['../df/d6d/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_swipe_input_handler.html#a68769f04276e01e55328e60c910917b8',1,'NullFrameworkException::Mobile::InputHandling::SwipeInputHandler']]]
+  ['flagaspersistant_92',['FlagAsPersistant',['../dd/d7b/class_null_framework_exception_1_1_core_1_1_mono_singleton.html#ac28f8f093b8ca8c7f1ac568212483e48',1,'NullFrameworkException::Core::MonoSingleton']]]
 ];

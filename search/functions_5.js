@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['setup_3c_20trunnable_20_3e_39',['Setup&lt; TRunnable &gt;',['../d9/d99/class_null_framework_exception_1_1_runnable_utils.html#af9eaace0007ba36e3df6848728cc4bec',1,'NullFrameworkException::RunnableUtils']]]
+  ['loadablename_96',['LoadableName',['../d9/d6f/class_null_framework_exception_1_1_core_1_1_scene_field_attribute.html#a4873ec4d4f42320b5dc1ba98c923a495',1,'NullFrameworkException::Core::SceneFieldAttribute']]]
 ];

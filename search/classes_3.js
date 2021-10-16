@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['runnablebehaviour_27',['RunnableBehaviour',['../dd/d99/class_null_framework_exception_1_1_runnable_behaviour.html',1,'NullFrameworkException']]],
-  ['runnableutils_28',['RunnableUtils',['../d9/d99/class_null_framework_exception_1_1_runnable_utils.html',1,'NullFrameworkException']]]
+  ['irunnable_59',['IRunnable',['../d3/d1c/interface_null_framework_exception_1_1_core_1_1_i_runnable.html',1,'NullFrameworkException::Core']]]
 ];

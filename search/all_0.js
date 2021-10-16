@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['createinstance_0',['CreateInstance',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html#a4e041de0e9f81aac4b871b830e6f7c1c',1,'NullFrameworkException::MonoSingleton']]]
+  ['basesorter_0',['BaseSorter',['../df/dcd/class_sorting_1_1_base_sorter.html',1,'Sorting']]],
+  ['bubblecomparable_1',['BubbleComparable',['../da/d3f/class_sorting_1_1_bubble_comparable.html',1,'Sorting']]],
+  ['bubblesort_2',['BubbleSort',['../da/d42/class_sorting_1_1_bubble_sort.html',1,'Sorting']]],
+  ['bubblesorter_3c_20t_20_3e_3',['BubbleSorter&lt; T &gt;',['../da/d3f/class_sorting_1_1_bubble_comparable.html#ac3506d6df57f268b4402ac32e039b982',1,'Sorting::BubbleComparable']]]
 ];

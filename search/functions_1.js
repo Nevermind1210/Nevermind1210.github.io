@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['flagaspersistant_35',['FlagAsPersistant',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html#af43709bdb121fdc43fe92739e84e0bb5',1,'NullFrameworkException::MonoSingleton']]]
+  ['createinstance_91',['CreateInstance',['../dd/d7b/class_null_framework_exception_1_1_core_1_1_mono_singleton.html#a24a59b0138a57029d1db99a9a8e8db8d',1,'NullFrameworkException::Core::MonoSingleton']]]
 ];
